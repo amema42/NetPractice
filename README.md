@@ -1,4 +1,4 @@
-# NetPractice (or Net_Practice)
+# NetPractice / Net_Practice
 
 This project is a practical exercise designed to introduce you to networking concepts at 42 School. NetPractice focuses on networking exercises involving IP addresses and subnet masks. Test yourself by visiting this link to try out the exercises: [NetPractice](https://amema42.github.io/NetPractice/).
 
